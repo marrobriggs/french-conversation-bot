@@ -1,5 +1,9 @@
 streamlit
-language-tool-python
+java
+language_tool_python
+pyspark
+jpype1
+
 
 
 
