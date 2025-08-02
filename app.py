@@ -1,8 +1,8 @@
+!pip install java --quiet
 import streamlit as st
 import language_tool_python
 import random
-import os
-os.environment["JAVA_HOME"] = "/usr"
+
 
 # Initialize LanguageTool for French
 tool = language_tool_python.LanguageTool('fr')
@@ -72,4 +72,5 @@ for sender, message in st.session_state.chat_history:
         st.markdown(f"**🧑 Tu:** {message}")
     else:
         st.markdown(f"**🤖 Bot:** {message}")
+
 
