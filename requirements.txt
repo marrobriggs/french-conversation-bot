@@ -3,8 +3,9 @@ javascript
 Javascript
 Java
 java
-default-jdk
 language-tool-python
+language_tool_python
+
 
 
 
