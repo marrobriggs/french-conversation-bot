@@ -1,6 +1,8 @@
 streamlit
+javascript
 java
 language_tool_python
+
 
 
 
