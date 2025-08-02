@@ -1,9 +1,7 @@
 streamlit
 java
 language-tool-python
-language_tool_python
-pyspark
-jpype1
+
 
 
 
