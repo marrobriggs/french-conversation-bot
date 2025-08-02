@@ -1,6 +1,7 @@
 streamlit
-openjdk-17-jdk
+default-jdk
 language_tool_python
+
 
 
 
