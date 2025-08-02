@@ -1,3 +1,4 @@
+!pip install language_tool_python--quiet
 import streamlit as st
 import language_tool_python
 import random
@@ -71,6 +72,7 @@ for sender, message in st.session_state.chat_history:
         st.markdown(f"**🧑 Tu:** {message}")
     else:
         st.markdown(f"**🤖 Bot:** {message}")
+
 
 
 
