@@ -1,6 +1,11 @@
 streamlit
+javascript
+Javascript
+Java
 java
+default-jdk
 language-tool-python
+
 
 
 
