@@ -1,6 +1,8 @@
 streamlit
 javascript
+default-jdk
 language_tool_python
+
 
 
 
